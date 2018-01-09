@@ -6,7 +6,7 @@ if (!defined('__TYPECHO_ROOT_DIR__')) exit;
  * @package GoogleRecaptcha 
  * @author qining
  * @version 0.0.1
- * @link https://www.ddnpc.com
+ * @link https://github.com/Instrye/typecho_GoogleRecaptcha
  */
 class GoogleRecaptcha_Plugin implements Typecho_Plugin_Interface
 {
