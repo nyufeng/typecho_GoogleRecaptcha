@@ -4,7 +4,7 @@ if (!defined('__TYPECHO_ROOT_DIR__')) exit;
  * Hello World
  * 
  * @package GoogleRecaptcha 
- * @author qining
+ * @author Instrye
  * @version 0.0.1
  * @link https://github.com/Instrye/typecho_GoogleRecaptcha
  */
